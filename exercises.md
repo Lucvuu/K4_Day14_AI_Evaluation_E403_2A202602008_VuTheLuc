@@ -6,6 +6,8 @@
 
 **Domain:** OrbitTech Store Customer Support
 
+**Họ tên:** Vũ Thế Lực · **MSSV:** 2A202602008
+
 Điền trực tiếp câu trả lời vào file này. Golden dataset 20 QA được viết một lần
 duy nhất trong `golden_dataset.json`, không chép lại toàn bộ vào Markdown.
 

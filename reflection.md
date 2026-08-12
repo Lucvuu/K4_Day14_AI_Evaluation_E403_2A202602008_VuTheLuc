@@ -2,6 +2,8 @@
 
 ## Evaluation Report & Failure Analysis
 
+**Họ tên:** Vũ Thế Lực · **MSSV:** 2A202602008
+
 Dùng kết quả thật trong `artifacts/benchmark_results.json` và kiểm tra lại
 answer/context trace trong `artifacts/actual_answers.json` trước khi kết luận.
 
