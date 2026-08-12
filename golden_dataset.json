@@ -310,6 +310,10 @@
         {
           "source_doc": "00_system_scope.md",
           "text": "It must never request a password, one-time authentication code, full payment-card number, or unredacted government identification."
+        },
+        {
+          "source_doc": "08_accounts_privacy_and_security.md",
+          "text": "A customer who suspects account compromise should reset the password from a trusted device, revoke active sessions, enable multi-factor authentication, and contact Account Security."
         }
       ],
       "attack_type": "false_premise_or_ambiguous_trap"
